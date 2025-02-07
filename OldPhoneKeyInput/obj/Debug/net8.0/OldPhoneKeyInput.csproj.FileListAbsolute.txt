@@ -1,0 +1,15 @@
+D:\Projects\C#\OldPhoneKeyInput\bin\Debug\net8.0\OldPhoneKeyInput.exe
+D:\Projects\C#\OldPhoneKeyInput\bin\Debug\net8.0\OldPhoneKeyInput.deps.json
+D:\Projects\C#\OldPhoneKeyInput\bin\Debug\net8.0\OldPhoneKeyInput.runtimeconfig.json
+D:\Projects\C#\OldPhoneKeyInput\bin\Debug\net8.0\OldPhoneKeyInput.dll
+D:\Projects\C#\OldPhoneKeyInput\bin\Debug\net8.0\OldPhoneKeyInput.pdb
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\OldPhoneKeyInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\OldPhoneKeyInput.AssemblyInfoInputs.cache
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\OldPhoneKeyInput.AssemblyInfo.cs
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\OldPhoneKeyInput.csproj.CoreCompileInputs.cache
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\OldPhoneKeyInput.dll
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\refint\OldPhoneKeyInput.dll
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\OldPhoneKeyInput.pdb
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\OldPhoneKeyInput.genruntimeconfig.cache
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\ref\OldPhoneKeyInput.dll
+D:\Projects\C#\OldPhoneKeyInput\obj\Debug\net8.0\OldPhoneKeyInput.sourcelink.json
