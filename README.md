@@ -26,7 +26,7 @@ This project implements a C# program that simulates old mobile phone keypads, wh
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/OldPhoneKeyInput.git
+   git clone https://github.com/shinewaitun/OldPhoneKeyInput.git
    ```
 2. Open the project in your preferred C# development environment.
 3. Compile and run the program.
