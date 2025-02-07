@@ -7,7 +7,7 @@ namespace OldPhoneKeyInput
     {
         static void Main(string[] args)
         {
-            string result = OldPhonePad("5555557777772*2#");
+            string result = OldPhonePad("4433555 555666#");
             Console.WriteLine(result);
         }
 
